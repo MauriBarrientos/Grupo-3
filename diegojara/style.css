@@ -1,0 +1,30 @@
+header {
+    color: #203b7b ;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+        border: 1px solid black;
+        padding: 10px;  
+        -webkit-text-stroke: 0.2px white;
+        font-size: 30px;
+ }
+section {
+    color: #203b7b ; 
+    border: 1px solid rgb(244, 244, 244);
+        padding: 10px;  
+        -webkit-text-stroke: 0.2px white;
+        font-size: 30px;
+    
+}
+header{
+    text-align: center}
+    aside {
+        text-align: right;
+            border: 1px solid black;
+            padding: 10px;
+    }
+    body 
+    { background-color: black;
+    background-repeat: no-repeat ;
+background-size: cover;
+}
