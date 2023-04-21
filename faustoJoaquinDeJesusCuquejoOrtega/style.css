@@ -1,0 +1,30 @@
+p {
+    background-color: yellow;
+}
+a{
+    border: 3px solid red;
+}
+.mi-clase{
+    border: 3px solid green; 
+}
+#primerh3 {
+    color: red;
+  }
+button[type=submit]{
+background-color: blue;
+}
+#ultimoid {
+    color: green;
+  }
+p span {
+    color: grey;
+}
+.mi-clase{
+    color: orange;
+}
+div p {
+    border: 3px solid purple;
+}
+div>p:first-child{
+    color: grey;
+}
