@@ -3,12 +3,36 @@
     padding: 0;
     box-sizing: border-box;
     background-color: rgba(0, 0, 0, 0.753)
+    
 }
 main{
-    min-height: 100vh;
+    min-height: 80vh;
 }
 h1{
     color:rgb(235, 219, 219) ;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+article{
+    color: white;
+    border: 1px solid white;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    
+}
+ footer{
+    color: white;
+    height: 20vh;
+    text-align: center;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ section{
+    display: flex;
+    height: 50vh;
+ }
