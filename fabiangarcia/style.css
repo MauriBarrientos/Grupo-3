@@ -1,3 +1,17 @@
-p{
-    color: red;
+
+
+main{
+    height: 90vh;
 }
+
+footer{
+    height: 10vh;
+    display: flex;
+    justify-content: end;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
